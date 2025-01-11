@@ -5,7 +5,7 @@
 ### About Me
 
 - Computer Science Student at Stevens Institute of Technology
-- Some other stuff
+- Vice President of the Stevens Game Development Club
 
 ### Tech Stack
 - Operating Systems:
