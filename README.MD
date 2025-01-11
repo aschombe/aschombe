@@ -14,7 +14,7 @@
     ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 - Languages:
     ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-    ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+    ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=blue)
     ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
     ![ARM Assembly](https://img.shields.io/badge/-ARM_Assembly-333333?style=flat&logo=ARM)
     ![Typst](https://img.shields.io/badge/-Typst-333333?style=flat&logo=Typst)
