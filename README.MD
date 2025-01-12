@@ -27,8 +27,8 @@ struct Student aschombe = {
         "CS 492 - Operating Systems",
         "CS 496 - Programming Languages",
         "CS 516 - Compiler Design & Implementation",
-        "CS 615 - Systems Administration",
         "CS 573 - Fundamentals of Cybersecurity",
+        "CS 615 - Systems Administration",
         "CS 810 - Automated Techniques for Security, Privacy & Reliability",
     }
     .experience = {
