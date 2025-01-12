@@ -1,11 +1,6 @@
 ## Hi, I'm Andrew! 👋
 
 ### About Me
-
-<!-- - Computer Science Student at Stevens Institute of Technology
-- CS382 and CS392 Course Assistant
-- Vice President of the Stevens Game Development Club -->
-
 ```c
 struct Student {
     char *name;
@@ -29,21 +24,21 @@ struct Student aschombe = {
         "CS 516 - Compiler Design & Implementation",
         "CS 573 - Fundamentals of Cybersecurity",
         "CS 615 - Systems Administration",
-        "CS 810 - Automated Techniques for Security, Privacy & Reliability",
-    }
+        "CS 810 - Automated Techniques for Security, Privacy & Reliability"
+    },
     .experience = {
         "Former ROC Engineering Intern at Dega Systems",
-        "Course Assistant for Computer Architecture and Systems Programming",
+        "Course Assistant for Computer Architecture and Systems Programming"
     },
     .leadership = {
-        "Vice President of the Stevens Game Development Club",
+        "Vice President of the Stevens Game Development Club"
     },
     .interests = {
         "Information Technology",
         "Cybersecurity",
         "Computer Architecture",
         "Programming Languages",
-        "Game Development",
+        "Game Development"
     }
 };
 ```
