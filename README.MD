@@ -33,7 +33,7 @@ struct Student aschombe = {
     }
     .experience = {
         "Former ROC Engineering Intern at Dega Systems",
-        "Course Assistant for Computer Architecture and Systems Programming Courses",
+        "Course Assistant for Computer Architecture and Systems Programming",
     },
     .leadership = {
         "Vice President of the Stevens Game Development Club",
