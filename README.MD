@@ -67,7 +67,7 @@ struct Student aschombe = {
     ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)
     ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
     ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-    ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-333333.svg?logo=vsc&logoColor=blue)
+    ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-333333.svg?logo=vsc)
     ![Godot Engine](https://img.shields.io/badge/-Godot_Engine-333333?style=flat&logo=godotengine)
     ![Logisim Evolution](https://img.shields.io/badge/-Logisim--Evolution-333333?style=flat&logo=logisim-evolution)
 
@@ -77,35 +77,13 @@ struct Student aschombe = {
 - [Jam Mini Launcher](https://github.com/aschombe/jam-mini-launcher) - A custom game library and launcher for the Stevens Game Development Club's upcoming project.
 
 ## My Stats
-<details>
-  <summary><b>Languages stats</b></summary>
-  <br/>
-    <picture align="right">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aschombe&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aschombe&theme=nord_bright">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aschombe&theme=nord_dark">
-  </picture>
-  <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aschombe&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aschombe&theme=nord_bright">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aschombe&theme=nord_dark">
-  </picture>
-</details>
-
-<details>
-  <summary><b>Contribution stats</b></summary>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aschombe&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aschombe&theme=nord_bright">
-    <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aschombe&theme=nord_dark">
-  </picture>
-</details>
+![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aschombe&theme=nord_dark)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aschombe&theme=nord_dark)
+![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aschombe&theme=nord_dark)
 
 ## Connect with Me
+![Firefox](https://img.shields.io/badge/Firefox-aschombe.github.io-333333?logo=Firefox&logoColor=orange)
 
-<a href="https://aschombe.github.io"><img src="https://img.shields.io/badge/Website-aschombe.github.io-333333?style=flat-square&logo=Firefox&logoColor=orange"/></a>
+![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-andrew--schomber-333333?logo=linkedin-white)
 
-<a href="https://www.linkedin.com/in/andrew-schomber/"><img src="https://img.shields.io/badge/LinkedIn-andrew--schomber-333333?style=flat-squaree&logo=linkedin&logoColor=white"/></a>
-
-<a href="mailto:aschombe@stevens.edu"><img src="https://img.shields.io/badge/Gmail-aschombe@stevens.edu-333333?style=flat-square&logo=Gmail"/></a>
+![Gmail](https://img.shields.io/badge/Gmail-aschombe@stevens.edu-333333?logo=gmail)
