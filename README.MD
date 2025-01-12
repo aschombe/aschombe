@@ -67,7 +67,7 @@ struct Student aschombe = {
     [![Logisim Evolution](https://img.shields.io/badge/-Logisim--Evolution-333333?style=flat&logo=logisim-evolution)](https://github.com/logisim-evolution/logisim-evolution)
 
 ## Current Projects
-- [microRISC](https://github.com/aschombe/microRISC) - A 32-bit CPU architecture implemented in Logisim, with an assembler and manual.
+- [microRISC](https://github.com/aschombe/microRISC) - A 32-bit CPU architecture implemented in Logisim-Evolution, with an assembler and manual.
 - [C-Script](https://github.com/aschombe/C-Script) - A programming language implemented in C++, with an interpreter and soon a compiler.
 - [Jam Mini Launcher](https://github.com/aschombe/jam-mini-launcher) - A custom game library and launcher for the Stevens Game Development Club's upcoming project.
 
