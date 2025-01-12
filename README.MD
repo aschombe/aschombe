@@ -22,7 +22,7 @@ struct Student aschombe = {
     .courses = {
         "CS 306 - Intro to IT Security",
         "CS 334 - Theory of Computation",
-        "CS 382 - Computer Architecture",
+        "CS 382 - Computer Architecture and Organization",
         "CS 392 - Systems Programming",
         "CS 492 - Operating Systems",
         "CS 496 - Programming Languages",
