@@ -51,7 +51,7 @@ struct Student aschombe = {
 ### Tech Stack
 - Operating Systems:
     ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-    [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-333333?logo=windows&logoColor=white)](#)
+    ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-333333?logo=windows&logoColor=white)
     ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
 
 - Languages:
