@@ -48,9 +48,6 @@ struct Student aschombe = {
 };
 ```
 
-<h4>I am a Computer Science student at Stevens Institute of Technology, where I am a Course Assistant for the Computer Architecture and Systems Programming courses. I am also the Vice President of the Stevens Game Development Club. My interests include Cybersecurity, Computer Architecture, Programming Languages, and Game Development.</h4>
-<h4>My previous internship was at Dega Systems, where I worked as a ROC Engineering Intern. My responsibilities included completing onboarding/offboarding procedures for new hires/terminations, configuring and maintaining devices and software, assisting in the completion of technical support tickets, developing and documenting SOPs for IT support tasks, managing inventory for hardware, setting up and maintaining a Linux VM, and mentoring a junior intern.</h4>
-
 ### Tech Stack
 - Operating Systems:
     ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
