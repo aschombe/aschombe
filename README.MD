@@ -51,25 +51,25 @@ struct Student aschombe = {
 ### Tech Stack
 - Operating Systems:
     ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-    ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-333333?logo=windows&logoColor=white)
-    ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)
+    [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-333333?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+    [![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=apple)](https://www.apple.com/macos)
 
 - Languages:
-    ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-    ![ARM Assembly](https://img.shields.io/badge/-ARM_Assembly-333333?style=flat&logo=ARM)
-    ![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=blue)
-    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![Typst](https://img.shields.io/badge/-Typst-333333?style=flat&logo=Typst)
-    ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-    ![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)
+    [![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)](https://www.gnu.org/software/gnu-c-manual/)
+    [![ARM Assembly](https://img.shields.io/badge/-ARM_Assembly-333333?style=flat&logo=ARM)](https://developer.arm.com/documentation/107829/0200/Assembly-language-basics)
+    [![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=blue)](https://isocpp.org/)
+    [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org)
+    [![Typst](https://img.shields.io/badge/-Typst-333333?style=flat&logo=Typst)](https://typst.app/)
+    [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://www.markdownguide.org/)
+    [![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
     
 - Tools:
-    ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)
-    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-    ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-333333.svg?logo=vsc)
-    ![Godot Engine](https://img.shields.io/badge/-Godot_Engine-333333?style=flat&logo=godotengine)
-    ![Logisim Evolution](https://img.shields.io/badge/-Logisim--Evolution-333333?style=flat&logo=logisim-evolution)
+    [![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim)](https://neovim.io/)
+    [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
+    [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
+    [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-333333.svg?logo=vsc)](https://code.visualstudio.com/)
+    [![Godot Engine](https://img.shields.io/badge/-Godot_Engine-333333?style=flat&logo=godotengine)](https://godotengine.org/)
+    [![Logisim Evolution](https://img.shields.io/badge/-Logisim--Evolution-333333?style=flat&logo=logisim-evolution)](https://github.com/logisim-evolution/logisim-evolution)
 
 ## Current Projects
 - [microRISC](https://github.com/aschombe/microRISC) - A 32-bit CPU architecture implemented in Logisim, with an assembler and manual.
@@ -82,8 +82,11 @@ struct Student aschombe = {
 ![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aschombe&theme=nord_dark)
 
 ## Connect with Me
-![Firefox](https://img.shields.io/badge/Firefox-aschombe.github.io-333333?logo=Firefox&logoColor=orange)
 
-![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-andrew--schomber-333333?logo=linkedin-white)
+[![Website](https://img.shields.io/badge/Website-aschombe.github.io-333333?logo=Firefox&logoColor=orange)](https://aschombe.github.io)
 
-![Gmail](https://img.shields.io/badge/Gmail-aschombe@stevens.edu-333333?logo=gmail)
+[![GitHub](https://img.shields.io/badge/GitHub-aschombe-333333?logo=github)](https://github.com/aschombe)
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-andrew--schomber-333333?logo=linkedin-white)](https://www.linkedin.com/in/andrew-schomber/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-aschombe%40stevens.edu-333333?logo=gmail)](mailto:aschombe@stevens.edu)
