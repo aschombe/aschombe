@@ -56,6 +56,7 @@ struct Student aschombe = {
     [![ARM Assembly](https://img.shields.io/badge/-ARM_Assembly-333333?style=flat&logo=ARM)](https://developer.arm.com/documentation/107829/0200/Assembly-language-basics)
     [![C++](https://img.shields.io/badge/-C++-333333?logo=cplusplus&logoColor=blue)](https://isocpp.org/)
     [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org)
+    [![OCaml](https://img.shields.io/badge/-OCaml-333333?style=flat&logo=ocaml)](https://ocaml.org/)
     [![Typst](https://img.shields.io/badge/-Typst-333333?style=flat&logo=Typst)](https://typst.app/)
     [![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)](https://www.markdownguide.org/)
     [![GDScript](https://img.shields.io/badge/-GDScript-333333?style=flat&logo=godotengine)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
