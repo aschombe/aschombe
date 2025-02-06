@@ -78,7 +78,7 @@ struct Student aschombe = {
 ![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aschombe&theme=nord_dark)
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aschombe&theme=nord_dark)
 ![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aschombe&theme=nord_dark)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aschombe?theme=nord)](https://leetcode.com/aschombe)
+<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/aschombe?theme=nord)](https://leetcode.com/aschombe) -->
 
 ## Connect with Me
 
