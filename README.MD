@@ -29,6 +29,7 @@ struct Student aschombe = {
         "CS 810 - Automated Techniques for Security, Privacy & Reliability"
     },
     .experience = {
+        "IT Infrastructure Intern at ConnectiveRX",
         "Former ROC Engineering Intern at Dega Systems",
         "Course Assistant for Computer Architecture and Systems Programming"
     },
