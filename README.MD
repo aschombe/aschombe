@@ -62,4 +62,4 @@ struct Student aschombe = {
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-andrew--schomber-333333?logo=linkedin-white)](https://www.linkedin.com/in/andrew-schomber/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@schombe.me)
+[![Email](https://img.shields.io/badge/Email-contact%40schombe.me-333333?style=flat&logo=minutemailer&logoColor=4A90E2)](mailto:contact@schombe.me)
